@@ -11,6 +11,8 @@ color_5      458588
 color_6      b16286
 color_7      689d6a
 color_8      a89984
+
 bg           gruvbox.jpg
 alpha        0.9
 alpha_hex    E5
+bar          1

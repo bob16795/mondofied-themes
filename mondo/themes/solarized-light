@@ -14,3 +14,4 @@ color_8      eee8d5
 bg           solarized-light.png
 alpha        1.0
 alpha_hex    ff
+bar          0

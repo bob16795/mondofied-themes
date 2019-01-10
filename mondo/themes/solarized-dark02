@@ -14,3 +14,4 @@ color_8      eee8d5
 bg           sudoBlue.jpg
 alpha        0.5
 alpha_hex    80
+bar          0
