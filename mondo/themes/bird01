@@ -14,3 +14,4 @@ color_8      666665
 bg           bird.png
 alpha        0.75
 alpha_hex    BF
+bar          0
