@@ -1,0 +1,17 @@
+!! Theme:    tree01
+!! Author:   john
+!! Created:  2019-01-06
+
+color_bg     111d57
+color_fg     c5b8c9
+color_2      5a5f92
+color_3      1a79c3
+color_4      956f90
+color_5      1b99cf
+color_6      48b6cb
+color_7      c5b8c9
+color_8      666666
+
+bg           antlers.jpg
+alpha        0.75
+alpha_hex    BF
